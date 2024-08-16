@@ -1,0 +1,143 @@
+date,event,arena,city,fighter1,fighter2,result_type,agreement,winner,winner2,rounds,damato_score1,damato_score2,damato_margin,damato_perc,damato_dev,damato_out,lee_score1,lee_score2,lee_margin,lee_perc,lee_dev,lee_out
+2009-09-16,UFN 19: Diaz vs. Guillard,Cox Convention Center,"Oklahoma City, Oklahoma, USA",Ellenberger,Condit,Split,Agree,Condit,fighter2,3,28,29,-1,3.45%,1,fighter2,28,29,-1,3.45%,1,fighter2
+2009-09-19,UFC 103: Franklin vs. Belfort,American Airlines Center,"Dallas, Texas, USA",Pokrajac,Matyushenko,Unanimous,Agree,Matyushenko,fighter2,3,27,30,-3,10.00%,0,fighter2,27,30,-3,10.00%,0,fighter2
+2011-02-27,UFC 127: Penn vs. Fitch,Acer Arena,"Sydney, Australia",Fitch,Penn,Majority,Agree,draw,draw,3,28,28,0,0.00%,0.5,draw,28,28,0,0.00%,0.5,draw
+2011-02-27,UFC 127: Penn vs. Fitch,Acer Arena,"Sydney, Australia",Pearson,Fisher,Unanimous,Agree,Pearson,fighter1,3,29,28,1,-3.57%,1,fighter1,30,27,3,-11.11%,2,fighter1
+2011-03-03,UFC Live: Sanchez vs. Kampmann,KFC Yum! Center,"Louisville, Kentucky, USA",Kampmann,Sanchez,Unanimous,Agree,Sanchez,fighter2,3,28,29,-1,3.45%,0,fighter2,28,29,-1,3.45%,0,fighter2
+2011-03-03,UFC Live: Sanchez vs. Kampmann,KFC Yum! Center,"Louisville, Kentucky, USA",Castillo,Stevenson,Unanimous,Agree,Castillo,fighter1,3,29,28,1,-3.57%,1,fighter1,29,28,1,-3.57%,1,fighter1
+2011-08-27,UFC 134: Silva vs. Okami,HSBC Arena,"Rio de Janeiro, Brazil",Alcântara,Arantes,Unanimous,Agree,Alcântara,fighter1,3,30,27,3,-11.11%,1,fighter1,29,28,1,-3.57%,2,fighter1
+2011-09-10,Strikeforce: Barnett vs. Kharitonov,U.S. Bank Arena,"Cincinnati, Ohio, USA",Souza,Rockhold,Unanimous,Agree,Rockhold,fighter2,5,47,48,-1,2.08%,2,fighter2,47,48,-1,2.08%,2,fighter2
+2011-09-10,Strikeforce: Barnett vs. Kharitonov,U.S. Bank Arena,"Cincinnati, Ohio, USA",Steele,Mierzwiak,Unanimous,Agree,Steele,fighter1,3,29,27,2,-7.41%,0.5,fighter1,29,27,2,-7.41%,0.5,fighter1
+2011-09-17,UFN 25: Shields vs. Ellenberger,Ernest N. Morial Convention Center,"New Orleans, Louisiana, USA",Yang,McGee,Unanimous,Agree,McGee,fighter2,3,28,29,-1,3.45%,1.5,fighter2,27,30,-3,10.00%,1.5,fighter2
+2012-01-20,UFC on FX 1: Guillard vs. Miller,Bridgestone Arena,"Nashville, Tennessee, USA",Papazian,Easton,Majority,Agree,Easton,fighter2,3,27,30,-3,10.00%,2.5,fighter2,28,29,-1,3.45%,0.5,fighter2
+2012-02-04,UFC 143: Diaz vs. Condit,Mandalay Bay Events Center,"Las Vegas, Nevada, USA",Caceres,Figueroa,Split,Disagree,Figueroa,fighter2,3,27,28,-1,3.57%,1,fighter2,28,27,1,-3.70%,2,fighter1
+2012-02-26,UFC 144: Edgar vs. Henderson,Saitama Super Arena,"Saitama, Japan",Edgar,Henderson,Unanimous,Agree,Henderson,fighter2,5,46,49,-3,6.12%,1,fighter2,46,49,-3,6.12%,1,fighter2
+2012-02-26,UFC 144: Edgar vs. Henderson,Saitama Super Arena,"Saitama, Japan",Hioki,Palaszewski,Unanimous,Agree,Hioki,fighter1,3,29,28,1,-3.57%,1,fighter1,30,27,3,-11.11%,2,fighter1
+2012-07-21,UFC 149: Faber vs. Barao,Scotiabank Saddledome,"Calgary, Alberta, Canada",Barão,Faber,Unanimous,Agree,Barão,fighter1,5,49,46,3,-6.52%,1,fighter1,50,45,5,-11.11%,2,fighter1
+2012-07-21,UFC 149: Faber vs. Barao,Scotiabank Saddledome,"Calgary, Alberta, Canada",Boetsch,Lombard,Split,Agree,Boetsch,fighter1,3,29,28,1,-3.57%,1,fighter1,29,28,1,-3.57%,1,fighter1
+2012-07-21,UFC 149: Faber vs. Barao,Scotiabank Saddledome,"Calgary, Alberta, Canada",Head,Ebersole,Split,Disagree,Head,fighter1,3,28,29,-1,3.45%,2,fighter2,29,28,1,-3.57%,1,fighter1
+2012-10-05,UFC on FX 5: Browne vs. Bigfoot,Target Center,"Minneapolis, Minnesota, USA",Prater,LeVesseur,Split,Disagree,LeVesseur,fighter2,3,28,29,-1,3.45%,1,fighter2,29,28,1,-3.57%,2,fighter1
+2013-06-15,UFC 161: Evans vs. Henderson,MTS Centre,"Winnipeg, Manitoba, Canada",Henderson,Evans,Split,Agree,Evans,fighter2,3,28,29,-1,3.45%,1,fighter2,28,29,-1,3.45%,1,fighter2
+2013-06-15,UFC 161: Evans vs. Henderson,MTS Centre,"Winnipeg, Manitoba, Canada",Shields,Woodley,Split,Disagree,Shields,fighter1,3,29,28,1,-3.57%,2,fighter1,27,30,-3,10.00%,4,fighter2
+2013-06-15,UFC 161: Evans vs. Henderson,MTS Centre,"Winnipeg, Manitoba, Canada",Figueroa,Delorme,Unanimous,Agree,Delorme,fighter2,3,28,29,-1,3.45%,0,fighter2,28,29,-1,3.45%,0,fighter2
+2013-07-27,UFC on Fox 8: Johnson vs. Moraga,Key Arena,"Seattle, Washington, USA",Smith,Herman,Split,Disagree,Herman,fighter2,3,30,27,3,-11.11%,5,fighter1,27,30,-3,10.00%,4,fighter2
+2013-07-27,UFC on Fox 8: Johnson vs. Moraga,Key Arena,"Seattle, Washington, USA",Salas,Riley,Split,Agree,Salas,fighter1,3,29,28,1,-3.57%,1,fighter1,29,28,1,-3.57%,1,fighter1
+2013-08-31,UFC 164: Henderson vs. Pettis,BMO Harris Bradley Center,"Milwaukee, Wisconsin, USA",Koch,Poirier,Unanimous,Agree,Poirier,fighter2,3,27,29,-2,6.90%,0.5,fighter2,27,29,-2,6.90%,0.5,fighter2
+2013-08-31,UFC 164: Henderson vs. Pettis,BMO Harris Bradley Center,"Milwaukee, Wisconsin, USA",Kang,Camus,Unanimous,Agree,Camus,fighter2,3,28,29,-1,3.45%,1,fighter2,28,29,-1,3.45%,1,fighter2
+2013-09-21,UFC 165: Jones vs. Gustafsson,Air Canada Centre,"Toronto, Ontario, Canada",Menjivar,Reis,Unanimous,Agree,Reis,fighter2,3,28,29,-1,3.45%,0,fighter2,28,29,-1,3.45%,0,fighter2
+2013-11-06,UFN 31: Fight for the Troops 3,Fort Campbell,"Fort Campbell, Kentucky, USA",Larkin,Camozzi,Unanimous,Agree,Larkin,fighter1,3,29,28,1,-3.57%,2,fighter1,30,27,3,-11.11%,1,fighter1
+2014-05-10,UFC Fight Night 40: Brown vs. Silva,U.S. Bank Arena,"Cincinnati, Ohio, USA",Cariaso,Smolka,Split,Disagree,Cariaso,fighter1,3,28,29,-1,3.45%,2,fighter2,29,28,1,-3.57%,1,fighter1
+2014-05-10,UFC Fight Night 40: Brown vs. Silva,U.S. Bank Arena,"Cincinnati, Ohio, USA",Horiguchi,Montague,Unanimous,Agree,Horiguchi,fighter1,3,30,27,3,-11.11%,1,fighter1,29,28,1,-3.57%,2,fighter1
+2014-05-10,UFC Fight Night 40: Brown vs. Silva,U.S. Bank Arena,"Cincinnati, Ohio, USA",Lentz,Gamburyan,Unanimous,Agree,Lentz,fighter1,3,30,27,3,-11.11%,0,fighter1,30,27,3,-11.11%,0,fighter1
+2014-07-06,TUF 19 Finale: The Ultimate Fighter 19 Finale,Mandalay Bay Events Center,"Las Vegas, Nevada, USA",Scoggins,Ortiz,Split,Agree,Ortiz,fighter2,3,28,29,-1,3.45%,1,fighter2,28,29,-1,3.45%,1,fighter2
+2014-11-15,UFC 180: Werdum vs. Hunt,Arena Ciudad de México,"Mexico City, Mexico",Perez,Quinonez,Unanimous,Agree,Perez,fighter1,3,29,26,3,-11.54%,1,fighter1,28,27,1,-3.70%,2,fighter1
+2015-01-03,UFC 182: Jones vs. Cormier,MGM Grand Garden Arena,"Las Vegas, Nevada, USA",Cerrone,Jury,Unanimous,Agree,Cerrone,fighter1,3,30,27,3,-11.11%,0,fighter1,30,27,3,-11.11%,0,fighter1
+2015-01-03,UFC 182: Jones vs. Cormier,MGM Grand Garden Arena,"Las Vegas, Nevada, USA",Nilsson,Akhmedov,Unanimous,Agree,Akhmedov,fighter2,3,28,29,-1,3.45%,0,fighter2,28,29,-1,3.45%,0,fighter2
+2015-01-18,UFC Fight Night 59: McGregor vs. Siver,TD Garden,"Boston, Massachusetts, USA",Tibau,Parke,Split,Agree,Tibau,fighter1,3,29,28,1,-3.57%,1,fighter1,29,28,1,-3.57%,1,fighter1
+2015-01-18,UFC Fight Night 59: McGregor vs. Siver,TD Garden,"Boston, Massachusetts, USA",Howell,Holohan,Unanimous,Agree,Holohan,fighter2,3,27,30,-3,10.00%,0,fighter2,27,30,-3,10.00%,0,fighter2
+2015-06-13,UFC 188: Velasquez vs. Werdum,Arena Ciudad de México,"Mexico City, Mexico",Trevino,Case,Unanimous,Agree,Case,fighter2,3,27,30,-3,10.00%,0,fighter2,27,30,-3,10.00%,0,fighter2
+2015-06-13,UFC 188: Velasquez vs. Werdum,Arena Ciudad de México,"Mexico City, Mexico",Alvarez,Melendez,Split,Disagree,Alvarez,fighter1,3,29,28,1,-3.57%,1,fighter1,28,29,-1,3.45%,2,fighter2
+2015-09-05,UFC 191: Johnson vs. Dodson 2,MGM Grand Garden Arena,"Las Vegas, Nevada, USA",Anderson,Blachowicz,Unanimous,Agree,Anderson,fighter1,3,30,25,5,-20.00%,1,fighter1,29,26,3,-11.54%,2,fighter1
+2015-09-05,UFC 191: Johnson vs. Dodson 2,MGM Grand Garden Arena,"Las Vegas, Nevada, USA",Arlovski,Mir,Unanimous,Agree,Arlovski,fighter1,3,29,28,1,-3.57%,1,fighter1,29,28,1,-3.57%,1,fighter1
+2015-12-12,UFC 194: Aldo vs. McGregor,MGM Grand Garden Arena,"Las Vegas, Nevada, USA",Jones-Lybarger,Torres,Unanimous,Agree,Torres,fighter2,3,27,30,-3,10.00%,0,fighter2,27,30,-3,10.00%,0,fighter2
+2016-01-02,UFC 195: Lawler vs. Condit,MGM Grand Garden Arena,"Las Vegas, Nevada, USA",Morono,Noke,Split,Agree,Morono,fighter1,3,29,28,1,-3.57%,2,fighter1,29,28,1,-3.57%,2,fighter1
+2016-01-17,UFC Fight Night 81: Dillashaw vs. Cruz,TD Garden,"Boston, Massachusetts, USA",Barroso,Mutapcic,Unanimous,Agree,Barroso,fighter1,3,29,28,1,-3.57%,2,fighter1,30,27,3,-11.11%,1,fighter1
+2016-03-05,UFC 196: McGregor vs. Diaz,MGM Grand Garden Arena,"Las Vegas, Nevada, USA",Skelly,Elkins,Unanimous,Agree,Elkins,fighter2,3,27,29,-2,6.90%,1.5,fighter2,27,30,-3,10.00%,0,fighter2
+2016-04-16,UFC on Fox 19: Teixeira vs. Evans,Amalie Arena,"Tampa, Florida, USA",Correia,Pennington,Split,Agree,Pennington,fighter2,3,28,29,-1,3.45%,1,fighter2,28,29,-1,3.45%,1,fighter2
+2016-04-23,UFC 197: Jones vs. Saint Preux,MGM Grand Garden Arena,"Las Vegas, Nevada, USA",Saint Preux,Jones,Unanimous,Agree,Jones,fighter2,5,44,50,-6,12.00%,1,fighter2,45,50,-5,10.00%,0.5,fighter2
+2016-05-29,UFC Fight Night 88: Almeida vs. Garbrandt,Mandalay Bay Events Center,"Las Vegas, Nevada, USA",Story,Saffiedine,Unanimous,Agree,Story,fighter1,3,29,28,1,-3.57%,1,fighter1,30,27,3,-11.11%,2,fighter1
+2016-06-18,UFC Fight Night 89: MacDonald vs. Thompson,TD Place Arena,"Ottawa, Ontario, Canada",MacDonald,Thompson,Unanimous,Agree,Thompson,fighter2,5,47,48,-1,2.08%,4,fighter2,45,50,-5,10.00%,2,fighter2
+2016-06-18,UFC Fight Night 89: MacDonald vs. Thompson,TD Place Arena,"Ottawa, Ontario, Canada",Bossé,O'Connell,Unanimous,Agree,Bossé,fighter1,3,29,27,2,-7.41%,1,fighter1,29,28,1,-3.57%,0.5,fighter1
+2016-07-08,TUF 23 Finale: Team Joanna vs. Team Cláudia Finale,MGM Grand Garden Arena,"Las Vegas, Nevada, USA",Rountree Jr.,Sanchez,Unanimous,Agree,Sanchez,fighter2,3,25,30,-5,16.67%,0.5,fighter2,26,30,-4,13.33%,1,fighter2
+2016-07-16,Bellator 158: Daley vs. Lima,O2 Arena,"London, England",Daley,Lima,Unanimous,Agree,Lima,fighter2,3,27,30,-3,10.00%,0,fighter2,27,30,-3,10.00%,0,fighter2
+2016-07-16,Bellator 158: Daley vs. Lima,O2 Arena,"London, England",Tosta,Garnett,Majority,Agree,draw,draw,3,28,28,0,0.00%,1,draw,28,28,0,0.00%,1,draw
+2016-07-16,Bellator 158: Daley vs. Lima,O2 Arena,"London, England",Grove,Mulheron,Unanimous,Agree,Mulheron,fighter2,3,27,30,-3,10.00%,0.5,fighter2,28,29,-1,3.45%,2.5,fighter2
+2016-11-05,TUF Latin America 3 Finale: dos Anjos vs. Ferguson,Mexico City Arena,"Mexico City, Mexico",Sanchez,Held,Unanimous,Agree,Sanchez,fighter1,3,29,28,1,-3.57%,0.5,fighter1,29,27,2,-7.41%,1,fighter1
+2016-11-05,TUF Latin America 3 Finale: dos Anjos vs. Ferguson,Mexico City Arena,"Mexico City, Mexico",Magomedov,Dariush,Unanimous,Agree,Dariush,fighter2,3,27,30,-3,10.00%,1,fighter2,28,29,-1,3.45%,2,fighter2
+2016-11-05,TUF Latin America 3 Finale: dos Anjos vs. Ferguson,Mexico City Arena,"Mexico City, Mexico",Avila,Barzola,Unanimous,Agree,Barzola,fighter2,3,26,30,-4,13.33%,0,fighter2,26,30,-4,13.33%,0,fighter2
+2016-12-30,UFC 207: Nunes vs. Rousey,T-Mobile Arena,"Las Vegas, Nevada, Canada",Lineker,Dillashaw,Unanimous,Agree,Dillashaw,fighter2,3,26,30,-4,13.33%,0,fighter2,26,30,-4,13.33%,0,fighter2
+2016-12-30,UFC 207: Nunes vs. Rousey,T-Mobile Arena,"Las Vegas, Nevada, Canada",Borg,Smolka,Unanimous,Agree,Borg,fighter1,3,30,27,3,-11.11%,1,fighter1,30,26,4,-15.38%,0.5,fighter1
+2017-02-11,UFC 208: Holm vs. de Randamie,Barclays Center,"Brooklyn, New York, USA",Holm,de Randamie,Unanimous,Agree,de Randamie,fighter2,5,47,48,-1,2.08%,0,fighter2,47,48,-1,2.08%,0,fighter2
+2017-02-11,UFC 208: Holm vs. de Randamie,Barclays Center,"Brooklyn, New York, USA",Cannonier,Teixeira,Unanimous,Agree,Teixeira,fighter2,3,26,30,-4,13.33%,0,fighter2,26,30,-4,13.33%,0,fighter2
+2017-03-04,UFC 209: Woodley vs. Thompson 2,T-Mobile Arena,"Las Vegas, Nevada, USA",Woodley,Thompson,Majority,Disagree,Woodley,fighter1,5,47,47,0,0.00%,1,draw,48,47,1,-2.13%,0.5,fighter1
+2017-03-31,Bellator 175: Rampage vs. King Mo 2,Allstate Arena,"Rosemont, Illinois, USA",Lawal,Jackson,Unanimous,Agree,Lawal,fighter1,3,29,28,1,-3.57%,0,fighter1,29,28,1,-3.57%,0,fighter1
+2017-08-25,Bellator 182: Koreshkov vs. Njokuani,Turning Stone Resort & Casino,"Verona, New York, USA",Rainey,Stevens,Unanimous,Agree,Rainey,fighter1,3,29,27,2,-7.41%,0,fighter1,29,27,2,-7.41%,0,fighter1
+2017-08-25,Bellator 182: Koreshkov vs. Njokuani,Turning Stone Resort & Casino,"Verona, New York, USA",Arteaga,Ellen,Split,Agree,Ellen,fighter2,3,28,29,-1,3.45%,1,fighter2,28,29,-1,3.45%,1,fighter2
+2017-10-07,UFC 216: Ferguson vs. Lee,T-Mobile Arena,"Las Vegas, Nevada, USA",Botelho,Gonzalez,Unanimous,Agree,Botelho,fighter1,3,30,27,3,-11.11%,0,fighter1,30,27,3,-11.11%,0,fighter1
+2017-12-01,TUF 26 Finale: A New World Champion Finale,Park Theater,"Paradise, Nevada, USA",O'Malley,Ware,Unanimous,Agree,O'Malley,fighter1,3,29,28,1,-3.57%,0,fighter1,29,28,1,-3.57%,0,fighter1
+2017-12-16,UFC on Fox 26: Lawler vs. dos Anjos,Bell MTS Place,"Winnipeg, Manitoba, Canada",Makdessi,Trujillo,Unanimous,Agree,Makdessi,fighter1,3,30,27,3,-11.11%,0,fighter1,30,27,3,-11.11%,0,fighter1
+2018-01-14,UFC Fight Night 124: Stephens vs. Choi,Scottrade Center,"St. Louis, Missouri, USA",White,Krause,Unanimous,Agree,Krause,fighter2,3,28,29,-1,3.45%,0,fighter2,28,29,-1,3.45%,0,fighter2
+2018-03-03,UFC 222: Cyborg vs. Kunitskaya,T-Mobile Arena,"Las Vegas, Nevada, USA",Soukhamthath,O'Malley,Unanimous,Agree,O'Malley,fighter2,3,28,29,-1,3.45%,1,fighter2,27,29,-2,6.90%,0.5,fighter2
+2018-04-07,UFC 223: Khabib vs. Iaquinta,Barclays Center,"Brooklyn, New York, USA",Nurmagomedov,Iaquinta,Unanimous,Agree,Nurmagomedov,fighter1,5,50,43,7,-16.28%,0.5,fighter1,50,43,7,-16.28%,0.5,fighter1
+2018-04-07,UFC 223: Khabib vs. Iaquinta,Barclays Center,"Brooklyn, New York, USA",Kowalkiewicz,Herrig,Split,Disagree,Kowalkiewicz,fighter1,3,29,28,1,-3.57%,1,fighter1,28,29,-1,3.45%,2,fighter2
+2018-04-13,Bellator 197: Chandler vs. Girtz,Family Arena,"St. Charles, Missouri, USA",Buckley,Storley,Unanimous,Agree,Storley,fighter2,3,26,30,-4,13.33%,0.5,fighter2,26,30,-4,13.33%,0.5,fighter2
+2018-04-13,Bellator 197: Chandler vs. Girtz,Family Arena,"St. Charles, Missouri, USA",Bucia,Anderson,Unanimous,Agree,Anderson,fighter2,3,27,30,-3,10.00%,0,fighter2,27,30,-3,10.00%,0,fighter2
+2018-04-14,UFC on Fox 29: Poirier vs. Gaethje,Gila River Arena,"Glendale, Arizona, USA",Moraga,Reis,Unanimous,Agree,Moraga,fighter1,3,29,28,1,-3.57%,0,fighter1,29,28,1,-3.57%,0,fighter1
+2018-04-14,UFC on Fox 29: Poirier vs. Gaethje,Gila River Arena,"Glendale, Arizona, USA",Okami,Lima,Unanimous,Agree,Okami,fighter1,3,30,26,4,-15.38%,0,fighter1,30,26,4,-15.38%,0,fighter1
+2018-05-12,UFC 224: Nunes vs. Pennington,Jeunesse Arena,"Rio de Janeiro, Brazil",Souza,Gastelum,Split,Disagree,Gastelum,fighter2,3,29,28,1,-3.57%,2,fighter1,28,29,-1,3.45%,1,fighter2
+2018-05-19,UFC Fight Night 129: Maia vs. Usman,Movistar Arena,"Santiago, Chile",Maia,Usman,Unanimous,Agree,Usman,fighter2,5,46,49,-3,6.12%,1,fighter2,45,50,-5,10.00%,2,fighter2
+2018-06-09,UFC 225: Whittaker vs. Romero 2,United Center,"Chicago, Illinois, USA",Romero,Whittaker,Split,Disagree,Whittaker,fighter2,5,48,47,1,-2.13%,2,fighter1,47,48,-1,2.08%,1,fighter2
+2018-06-09,UFC 225: Whittaker vs. Romero 2,United Center,"Chicago, Illinois, USA",Jackson,Punk,Unanimous,Agree,Jackson,fighter1,3,30,26,4,-15.38%,0,fighter1,30,26,4,-15.38%,0,fighter1
+2018-06-09,UFC 225: Whittaker vs. Romero 2,United Center,"Chicago, Illinois, USA",Lamas,Bektic,Split,Disagree,Bektic,fighter2,3,29,28,1,-3.57%,3,fighter1,28,29,-1,3.45%,0,fighter2
+2018-07-06,TUF 27 Finale: Undefeated Finale,Pearl Theatre,"Las Vegas, Nevada, USA",Adesanya,Tavares,Unanimous,Agree,Adesanya,fighter1,5,50,45,5,-11.11%,1,fighter1,49,46,3,-6.52%,2,fighter1
+2018-07-14,Bellator 203: Pitbull vs. Weichel 2,Foro Italico,"Rome, Italy",Freire,Weichel,Split,Agree,Freire,fighter1,5,49,46,3,-6.52%,3,fighter1,48,47,1,-2.13%,0,fighter1
+2018-11-03,UFC 230: Cormier vs. Lewis,Madison Square Garden,"New York City, New York, USA",de Lima,Wieczorek,Unanimous,Agree,de Lima,fighter1,3,30,27,3,-11.11%,0,fighter1,30,27,3,-11.11%,0,fighter1
+2018-11-03,UFC 230: Cormier vs. Lewis,Madison Square Garden,"New York City, New York, USA",Frevola,Vannata,Majority,Disagree,draw,draw,3,28,28,0,0.00%,0.5,draw,29,28,1,-3.57%,1,fighter1
+2018-11-03,UFC 230: Cormier vs. Lewis,Madison Square Garden,"New York City, New York, USA",Roberson,Marshman,Unanimous,Agree,Roberson,fighter1,3,30,26,4,-15.38%,0.5,fighter1,30,26,4,-15.38%,0.5,fighter1
+2018-11-10,UFC Fight Night 139: Korean Zombie vs. Rodríguez,Pepsi Center,"Denver, Colorado, USA",Pena,Trizano,Split,Disagree,Trizano,fighter2,3,29,28,1,-3.57%,3,fighter1,28,29,-1,3.45%,0,fighter2
+2018-12-15,UFC on Fox 31: Lee vs. Iaquinta 2,Fiserv Forum,"Milwaukee, Wisconsin, USA",Iaquinta,Lee,Unanimous,Agree,Iaquinta,fighter1,5,48,47,1,-2.13%,1,fighter1,49,46,3,-6.52%,2,fighter1
+2019-03-02,UFC 235: Jones vs. Smith,T-Mobile Arena,"Las Vegas, Nevada, USA",Jones,Smith,Unanimous,Agree,Jones,fighter1,5,48,44,4,-9.09%,0,fighter1,48,44,4,-9.09%,0,fighter1
+2019-04-27,UFC on ESPN+ 8: Jacaré vs. Hermansson,BB&T Center,"Sunrise, Florida, USA",Souza,Hermansson,Unanimous,Agree,Hermansson,fighter2,5,47,48,-1,2.08%,1.5,fighter2,47,48,-1,2.08%,1.5,fighter2
+2019-04-27,UFC on ESPN+ 8: Jacaré vs. Hermansson,BB&T Center,"Sunrise, Florida, USA",Roberts,Gifford,Unanimous,Agree,Roberts,fighter1,3,30,27,3,-11.11%,0,fighter1,30,27,3,-11.11%,0,fighter1
+2019-04-27,UFC on ESPN+ 8: Jacaré vs. Hermansson,BB&T Center,"Sunrise, Florida, USA",Lima,McGee,Split,Agree,Lima,fighter1,3,30,27,3,-11.11%,3,fighter1,29,28,1,-3.57%,0,fighter1
+2019-06-08,UFC 238: Cejudo vs. Moraes,United Center,"Chicago, Illinois, USA",Kowalkiewicz,Grasso,Unanimous,Agree,Grasso,fighter2,3,27,30,-3,10.00%,0,fighter2,27,30,-3,10.00%,0,fighter2
+2019-06-08,UFC 238: Cejudo vs. Moraes,United Center,"Chicago, Illinois, USA",Chookagian,Wood,Unanimous,Agree,Chookagian,fighter1,3,30,27,3,-11.11%,2,fighter1,29,28,1,-3.57%,1,fighter1
+2019-06-22,UFC on ESPN+ 12: Moicano vs. The Korean Zombie,Bon Secours Wellness Arena,"Greenville, South Carolina, USA",Di Chirico,Holland,Unanimous,Agree,Holland,fighter2,3,28,29,-1,3.45%,0,fighter2,28,29,-1,3.45%,0,fighter2
+2019-06-22,UFC on ESPN+ 12: Moicano vs. The Korean Zombie,Bon Secours Wellness Arena,"Greenville, South Carolina, USA",Yoder,Kondo,Unanimous,Agree,Yoder,fighter1,3,30,25,5,-20.00%,0,fighter1,30,26,4,-15.38%,1.5,fighter1
+2019-06-29,UFC on ESPN 3: Ngannou vs. dos Santos,Target Center,"Minneapolis, Minnesota, USA",Maia,Martin,Majority,Agree,Maia,fighter1,3,29,28,1,-3.57%,0.5,fighter1,29,28,1,-3.57%,0.5,fighter1
+2019-11-08,Bellator 233: Salter vs. van Steenis,WinStar World Casino,"Thackerville, Oklahoma, USA",Blencowe,Smith,Unanimous,Agree,Blencowe,fighter1,3,30,27,3,-11.11%,0,fighter1,30,27,3,-11.11%,0,fighter1
+2019-11-08,Bellator 233: Salter vs. van Steenis,WinStar World Casino,"Thackerville, Oklahoma, USA",Fortune,Campbell,Split,Agree,Fortune,fighter1,3,29,28,1,-3.57%,1,fighter1,29,28,1,-3.57%,1,fighter1
+2019-11-08,Bellator 233: Salter vs. van Steenis,WinStar World Casino,"Thackerville, Oklahoma, USA",Gidron,Crutchmer,Unanimous,Agree,Crutchmer,fighter2,3,27,30,-3,10.00%,0,fighter2,27,30,-3,10.00%,0,fighter2
+2019-11-08,Bellator 233: Salter vs. van Steenis,WinStar World Casino,"Thackerville, Oklahoma, USA",Salter,van Steenis,Unanimous,Agree,Salter,fighter1,3,29,28,1,-3.57%,0,fighter1,29,28,1,-3.57%,0,fighter1
+2019-11-08,Bellator 233: Salter vs. van Steenis,WinStar World Casino,"Thackerville, Oklahoma, USA",Young,Anglickas,Unanimous,Agree,Anglickas,fighter2,3,27,30,-3,10.00%,0,fighter2,27,30,-3,10.00%,0,fighter2
+2019-11-16,UFC on ESPN+ 22: Blachowicz vs. Jacare,GinÃ¡sio do Ibirapuera,"Sao Paulo, Brazil",Blachowicz,Souza,Split,Agree,Blachowicz,fighter1,5,48,47,1,-2.13%,1,fighter1,48,47,1,-2.13%,1,fighter1
+2019-11-16,UFC on ESPN+ 22: Blachowicz vs. Jacare,GinÃ¡sio do Ibirapuera,"Sao Paulo, Brazil",Arroyo,Muniz,Unanimous,Agree,Muniz,fighter2,3,27,30,-3,10.00%,0,fighter2,27,30,-3,10.00%,0,fighter2
+2019-12-07,UFC on ESPN 7: Overeem vs. Rozenstruik,Capital One Arena,"Washington, District of Columbia, USA",Rodriguez,Calvillo,Majority,Disagree,draw,draw,3,28,28,0,0.00%,0.5,draw,29,28,1,-3.57%,1,fighter1
+2019-12-21,Bellator 236: Macfarlane vs. Jackson,Neal S. Blaisdell Arena,"Honolulu, Hawaii, USA",Macfarlane,Jackson,Unanimous,Agree,Macfarlane,fighter1,5,50,44,6,-13.64%,0.5,fighter1,50,44,6,-13.64%,0.5,fighter1
+2019-12-21,Bellator 236: Macfarlane vs. Jackson,Neal S. Blaisdell Arena,"Honolulu, Hawaii, USA",Kunimoto,Jackson,Unanimous,Agree,Jackson,fighter2,3,27,30,-3,10.00%,0,fighter2,27,30,-3,10.00%,0,fighter2
+2020-02-21,Bellator 239: Ruth vs. Amosov,WinStar World Casino,"Thackerville, Oklahoma, USA",Lencioni,Mukhidinov,Split,Agree,Lencioni,fighter1,3,29,28,1,-3.57%,2,fighter1,29,28,1,-3.57%,2,fighter1
+2020-02-21,Bellator 239: Ruth vs. Amosov,WinStar World Casino,"Thackerville, Oklahoma, USA",Ruth,Amosov,Unanimous,Agree,Amosov,fighter2,3,28,29,-1,3.45%,0,fighter2,28,29,-1,3.45%,0,fighter2
+2020-02-21,Bellator 239: Ruth vs. Amosov,WinStar World Casino,"Thackerville, Oklahoma, USA",Benjilany,Croom,Split,Disagree,Croom,fighter2,3,28,29,-1,3.45%,1,fighter2,29,28,1,-3.57%,2,fighter1
+2020-02-21,Bellator 239: Ruth vs. Amosov,WinStar World Casino,"Thackerville, Oklahoma, USA",Girtz,Jury,Unanimous,Agree,Jury,fighter2,3,28,29,-1,3.45%,0,fighter2,28,29,-1,3.45%,0,fighter2
+2020-02-21,Bellator 239: Ruth vs. Amosov,WinStar World Casino,"Thackerville, Oklahoma, USA",Bolanos,Hatley Jr.,Split,Disagree,Hatley Jr.,fighter2,3,28,29,-1,3.45%,1,fighter2,29,28,1,-3.57%,2,fighter1
+2020-03-07,UFC 248: Adesanya vs. Romero,T-Mobile Arena,"Las Vegas, Nevada, USA",Adesanya,Romero,Unanimous,Agree,Adesanya,fighter1,5,48,47,1,-2.13%,1,fighter1,49,46,3,-6.52%,2,fighter1
+2020-03-07,UFC 248: Adesanya vs. Romero,T-Mobile Arena,"Las Vegas, Nevada, USA",Griffin,Oliveira,Split,Disagree,Oliveira,fighter2,3,29,28,1,-3.57%,2,fighter1,28,29,-1,3.45%,1,fighter2
+2020-05-09,UFC 249: Ferguson vs. Gaethje,VyStar Veterans Memorial Arena,"Jacksonville, Florida, USA",Spann,Alvey,Split,Disagree,Spann,fighter1,3,29,28,1,-3.57%,1,fighter1,28,29,-1,3.45%,2,fighter2
+2020-05-16,UFC on ESPN 8: Overeem vs. Harris,VyStar Veterans Memorial Arena,"Jacksonville, Florida, USA",Gadelha,Hill,Split,Disagree,Gadelha,fighter1,3,28,29,-1,3.45%,2,fighter2,29,28,1,-3.57%,1,fighter1
+2020-05-16,UFC on ESPN 8: Overeem vs. Harris,VyStar Veterans Memorial Arena,"Jacksonville, Florida, USA",Landwehr,Elkins,Unanimous,Agree,Landwehr,fighter1,3,30,27,3,-11.11%,1,fighter1,30,27,3,-11.11%,1,fighter1
+2020-06-06,UFC 250: Nunes vs. Spencer,UFC Apex,"Las Vegas, Nevada, USA",Spencer,Nunes,Unanimous,Agree,Nunes,fighter2,5,45,50,-5,10.00%,1,fighter2,44,50,-6,12.00%,0.5,fighter2
+2020-06-20,UFC Vegas 3: Blaydes vs. Volkov,UFC Apex,"Las Vegas, Nevada, USA",Blaydes,Volkov,Unanimous,Agree,Blaydes,fighter1,5,48,47,1,-2.13%,1.5,fighter1,48,46,2,-4.35%,0,fighter1
+2020-08-29,UFC on ESPN+ 33: Smith vs. Rakic,UFC Apex,"Las Vegas, Nevada, USA",Smith,Rakic,Unanimous,Agree,Rakic,fighter2,3,27,30,-3,10.00%,0.5,fighter2,27,30,-3,10.00%,0.5,fighter2
+2020-09-12,UFC on ESPN+ 35: Waterson vs. Hill,UFC Apex,"Las Vegas, Nevada, USA",Waterson-Gomez,Hill,Split,Disagree,Waterson-Gomez,fighter1,5,49,46,3,-6.52%,3,fighter1,47,48,-1,2.08%,3,fighter2
+2020-09-12,UFC on ESPN+ 35: Waterson vs. Hill,UFC Apex,"Las Vegas, Nevada, USA",Modafferi,Lee,Unanimous,Agree,Modafferi,fighter1,3,29,28,1,-3.57%,0,fighter1,29,28,1,-3.57%,0,fighter1
+2020-10-31,UFC on ESPN+ 39: Hall vs. Silva,UFC Apex,"Las Vegas, Nevada, USA",Mitchell,Fili,Unanimous,Agree,Mitchell,fighter1,3,30,27,3,-11.11%,1,fighter1,29,28,1,-3.57%,2,fighter1
+2020-11-14,UFC on ESPN+ 41: Felder vs. dos Anjos,"Las Vegas, Nevada, USA",NA,dos Anjos,Felder,Split,Disagree,dos Anjos,fighter1,5,50,45,5,-11.11%,3,fighter1,47,48,-1,2.08%,6,fighter2
+2020-11-14,UFC on ESPN+ 41: Felder vs. dos Anjos,"Las Vegas, Nevada, USA",NA,McKenna,Hansen,Unanimous,Agree,McKenna,fighter1,3,29,28,1,-3.57%,0,fighter1,29,28,1,-3.57%,0,fighter1
+2021-02-06,UFC on ESPN+ 42: Overeem vs. Volkov,UFC Apex,"Las Vegas, Nevada, USA",McCann,Procopio,Unanimous,Agree,Procopio,fighter2,3,27,29,-2,6.90%,0,fighter2,28,29,-1,3.45%,1.5,fighter2
+2021-03-06,UFC 259: Blachowicz vs. Adesanya,UFC Apex,"Las Vegas, Nevada, USA",Espinosa,Elliott,Unanimous,Agree,Elliott,fighter2,3,27,30,-3,10.00%,1,fighter2,25,30,-5,16.67%,2,fighter2
+2021-03-13,UFC on ESPN+ 45: Edwards vs. Muhammad,UFC Apex,"Las Vegas, Nevada, USA",Frey,de Paula,Unanimous,Agree,Frey,fighter1,3,29,28,1,-3.57%,0,fighter1,29,28,1,-3.57%,0,fighter1
+2021-05-15,UFC 262: Oliveira vs. Chandler,Toyota Center,"Houston, Texas, USA",Dariush,Ferguson,Unanimous,Agree,Dariush,fighter1,3,30,27,3,-11.11%,0,fighter1,30,27,3,-11.11%,0,fighter1
+2021-06-12,UFC 263: Adesanya vs. Vettori 2,Gila River Arena,"Glendale, Arizona, USA",Maia,Muhammad,Unanimous,Agree,Muhammad,fighter2,3,27,30,-3,10.00%,2,fighter2,28,29,-1,3.45%,1,fighter2
+2021-06-12,UFC 263: Adesanya vs. Vettori 2,Gila River Arena,"Glendale, Arizona, USA",Dawodu,Evloev,Unanimous,Agree,Evloev,fighter2,3,27,29,-2,6.90%,0,fighter2,27,29,-2,6.90%,0,fighter2
+2021-06-12,UFC 263: Adesanya vs. Vettori 2,Gila River Arena,"Glendale, Arizona, USA",Felipe,Collier,Split,Disagree,Felipe,fighter1,3,28,29,-1,3.45%,2,fighter2,29,28,1,-3.57%,1,fighter1
+2021-07-24,UFC on ESPN 27: Sandhagen vs. Dillashaw,UFC Apex,"Las Vegas, Nevada, USA",Maverick,Barber,Split,Disagree,Barber,fighter2,3,28,29,-1,3.45%,1,fighter2,29,28,1,-3.57%,2,fighter1
+2021-07-24,UFC on ESPN 27: Sandhagen vs. Dillashaw,UFC Apex,"Las Vegas, Nevada, USA",Paiva,Phillips,Majority,Disagree,Paiva,fighter1,3,28,28,0,0.00%,1,draw,29,28,1,-3.57%,0.5,fighter1
+2021-08-07,UFC 265: Lewis vs. Gane,Toyota Center,"Houston, Texas, USA",Kenney,Yadong,Split,Agree,Yadong,fighter2,3,28,29,-1,3.45%,0,fighter2,27,30,-3,10.00%,3,fighter2
+2021-08-07,UFC 265: Lewis vs. Gane,Toyota Center,"Houston, Texas, USA",Fiziev,Green,Unanimous,Agree,Fiziev,fighter1,3,29,28,1,-3.57%,1,fighter1,29,28,1,-3.57%,1,fighter1
+2021-08-07,UFC 265: Lewis vs. Gane,Toyota Center,"Houston, Texas, USA",Aldo,Munhoz,Unanimous,Agree,Aldo,fighter1,3,30,27,3,-11.11%,0,fighter1,30,27,3,-11.11%,0,fighter1
+2021-10-02,UFC on ESPN+ 51: Santos vs. Walker,UFC Apex,"Las Vegas, Nevada, USA",Jotko,Cirkunov,Split,Agree,Jotko,fighter1,3,29,28,1,-3.57%,1,fighter1,29,28,1,-3.57%,1,fighter1
+2021-10-02,UFC on ESPN+ 51: Santos vs. Walker,UFC Apex,"Las Vegas, Nevada, USA",Rosa,Correia,Unanimous,Agree,Rosa,fighter1,3,30,27,3,-11.11%,0.5,fighter1,30,26,4,-15.38%,1,fighter1
+2021-10-16,UFC on ESPN+ 53: Ladd vs. Dumont,UFC Apex,"Las Vegas, Nevada, USA",Dumont,Ladd,Unanimous,Agree,Dumont,fighter1,5,49,46,3,-6.52%,1,fighter1,49,46,3,-6.52%,1,fighter1
+2021-10-16,UFC on ESPN+ 53: Ladd vs. Dumont,UFC Apex,"Las Vegas, Nevada, USA",Roberts,Emeev,Split,Disagree,Roberts,fighter1,3,28,29,-1,3.45%,3,fighter2,30,27,3,-11.11%,3,fighter1
+2021-10-23,UFC on ESPN+ 54: Costa vs. Vettori,UFC Apex,"Las Vegas, Nevada, USA",Staropoli,Pickett,Unanimous,Agree,Pickett,fighter2,3,27,30,-3,10.00%,1,fighter2,27,30,-3,10.00%,1,fighter2
+2021-12-11,UFC 269: Oliveira vs. Poirier,T-Mobile Arena,"Las Vegas, Nevada, USA",Blanchfield,Maverick,Unanimous,Agree,Blanchfield,fighter1,3,30,27,3,-11.11%,0,fighter1,30,27,3,-11.11%,0,fighter1
