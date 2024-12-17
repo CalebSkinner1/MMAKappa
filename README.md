@@ -13,3 +13,7 @@ This folder holds the conversions needed to convert the data into ISLE format.
 
 ## Data Analysis
 The Data Analysis file is the rough draft of the module. It explains Inter-Rater-Reliability and provides the basis for the interaction used in ISLE.
+
+## References
+1. Connor Bryson began this analysis and acquired the data.
+2. data from ESPN
